@@ -1,3 +1,3 @@
 #github "Typhoon/Typhoon"
 #github "Mantle/Mantle"
-git "git@bitbucket.org:intelematics/ios-framework-corekit.git" "feature/dynamicFramework"
+github "IntelematicsNorthAmerica/IA-CoreKit" == 0.0.1
